@@ -1,0 +1,16 @@
+.containerCard {
+  margin-top: 5%;
+  width: 40%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 22.5%;
+  
+}
+.carousel-cont {
+    /* margin-left: 1%; */
+  width: 40%;
+  padding: 2%;
+  border: 2px solid rgb(151, 151, 151);
+}
